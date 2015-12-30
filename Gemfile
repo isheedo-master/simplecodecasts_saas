@@ -14,11 +14,8 @@ end
 
 gem 'bootstrap-sass', '3.3.1'
 
-<<<<<<< HEAD
-=======
 gem "font-awesome-rails"
 
->>>>>>> navbar
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.3'
 # Use Uglifier as compressor for JavaScript assets
