@@ -123,9 +123,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+<<<<<<< HEAD
   bootstrap-sass (= 3.3.1)
   coffee-rails (= 4.0.0)
   font-awesome-rails
+=======
+  coffee-rails (= 4.0.0)
+>>>>>>> contact_form
   jbuilder (= 2.0)
   jquery-rails
   pg
